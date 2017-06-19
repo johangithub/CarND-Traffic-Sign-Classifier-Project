@@ -100,7 +100,7 @@ Here are the results of the prediction:
 | 120 km/h              | 30 km/h                                       |
 | Road work             | Road work                                     |
 
-The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. This is within the bounds of test accuracy of 0.937. You would expect the model to predict around 4 to 5 out of 5 images correctly. While predicting 30 km/h vs 120 km/h could be fatal for the self-driving car system, you can see why the model would predict such: round, red circle with a 0 at the end, etc.
+The model was able to correctly guess 4 of the 5 traffic signs, which gives an accuracy of 80%. This is within the bounds of test accuracy of 0.945. You would expect the model to predict around 4 to 5 out of 5 images correctly. While predicting 30 km/h vs 120 km/h could be fatal for the self-driving car system, you can see why the model would predict such: round, red circle with a 0 at the end, etc.
 
 #### 3. Top 5 Prediction
 
